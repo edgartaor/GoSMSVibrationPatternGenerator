@@ -1,0 +1,12 @@
+In GoSMS app for Android you can use a custom vibration pattern when you recieved a new message.
+So I want to use a pattern with the rythms of the ringtone.
+
+To use the vibration pattern I created a very simple application to generate a pattern according to the ringtone.
+My ringtone is a Zelda sound.
+http://www.youtube.com/watch?v=ayPXmVXj8vs
+
+You can download the application here:
+http://www.mediafire.com/download.php?2os53gfdks57j8v
+
+The pattern is generated with the SPACE BAR.
+Just copy the generated pattern in your GoSMS apps
